@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on raying tracing and anomaly detection
-- 🌱 I’m currently learning pbr and CNN visualization 
+- 🔭 I’m currently working on gaze detection
+- 🌱 I’m currently learning visualization 
 - 📫 How to reach me: QQ 1308293139
 - 😄 Pronouns: enthusiastic, passionate, fighting
 
