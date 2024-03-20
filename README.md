@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on gaze detection
-- 🌱 I’m currently learning visualization 
-- 😄 Pronouns: enthusiastic, passionate, fighting
+- 🔭 I’m currently working on Diffusion
+- 🌱 I’m currently learning diffusion
+- 😄 Pronouns: tried
 
-Hope to make friends and create something interesting
+Try to do something maybe
 
 ![](https://github-readme-stats.vercel.app/api?username=Ambitious-idiot&theme=dark)
